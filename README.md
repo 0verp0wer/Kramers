@@ -7,7 +7,7 @@ Instruction:
 
 -2: download the deobfuscator and pycdas.exe and put in a folder  
 
--3: in the same folder put the obfuscted script      
+-3: in the same folder put the obfuscated script      
 
 -4: open cmd and write python kramers.py  
 
