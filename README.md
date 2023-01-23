@@ -14,4 +14,4 @@ Instruction:
 -5: drag and drop your obfuscated file  
 
 C͟o͟n͟t͟a͟c͟t͟
-- 📫 If you need help contact me on discord: **꧁𝕆𝕧𝕖𝕣𝕡𝕠𝕨𝕖𝕣༄꧂#0303**
+- 📫 If you need help contact me on discord: **꧁𝕆𝕧𝕖𝕣𝕡𝕠𝕨𝕖𝕣༄꧂#2524**
